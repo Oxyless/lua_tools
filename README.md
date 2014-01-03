@@ -36,6 +36,7 @@ debug.lua
 ```
 function Debug:write(...)
 function Debug:log(message, max)
+function Debug:cross(obj, rec, offset, lookup, cond)
 ```
 
 example
